@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "chTz+XgoMRmmnEVyfsTqrWifPm46c7GEEBnNqmxlAaQ=",
+  "Source": "signalR",
+  "BasePath": "_content/signalR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "signalR\\wwwroot",
+      "Source": "signalR",
+      "ContentRoot": "D:\\signalRWithForceLogout\\signalR\\signalR\\wwwroot\\",
+      "BasePath": "_content/signalR",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\signalRWithForceLogout\\signalR\\signalR\\wwwroot\\index.html",
+      "SourceId": "signalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\signalRWithForceLogout\\signalR\\signalR\\wwwroot\\",
+      "BasePath": "_content/signalR",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\signalRWithForceLogout\\signalR\\signalR\\wwwroot\\login.html",
+      "SourceId": "signalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\signalRWithForceLogout\\signalR\\signalR\\wwwroot\\",
+      "BasePath": "_content/signalR",
+      "RelativePath": "login.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.html"
+    }
+  ]
+}
