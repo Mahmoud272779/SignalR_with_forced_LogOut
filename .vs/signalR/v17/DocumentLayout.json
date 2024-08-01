@@ -49,8 +49,7 @@
               "RelativeToolTip": "signalR\\wwwroot\\login.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-31T08:30:10.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T08:30:10.592Z"
             },
             {
               "$type": "Document",
@@ -60,7 +59,7 @@
               "RelativeDocumentMoniker": "signalR\\ChatHub.cs",
               "ToolTip": "D:\\signalRWithForceLogout\\signalR\\signalR\\ChatHub.cs",
               "RelativeToolTip": "signalR\\ChatHub.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T08:18:12.513Z",
               "EditorCaption": ""
@@ -75,8 +74,7 @@
               "RelativeToolTip": "signalR\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-31T08:15:49.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T08:15:49.67Z"
             },
             {
               "$type": "Document",
@@ -99,8 +97,7 @@
               "RelativeToolTip": "signalR\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAD4vxkAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-31T08:12:44.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T08:12:44.091Z"
             },
             {
               "$type": "Document",
@@ -112,8 +109,7 @@
               "RelativeToolTip": "signalR\\wwwroot\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-31T08:06:24.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-31T08:06:24.157Z"
             }
           ]
         }

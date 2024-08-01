@@ -31,3 +31,4 @@ D:\signalRWithForceLogout\signalR\signalR\obj\Debug\net6.0\refint\signalR.dll
 D:\signalRWithForceLogout\signalR\signalR\obj\Debug\net6.0\signalR.pdb
 D:\signalRWithForceLogout\signalR\signalR\obj\Debug\net6.0\signalR.genruntimeconfig.cache
 D:\signalRWithForceLogout\signalR\signalR\obj\Debug\net6.0\ref\signalR.dll
+D:\signalRWithForceLogout\signalR\signalR\obj\Debug\net6.0\signalR.sourcelink.json

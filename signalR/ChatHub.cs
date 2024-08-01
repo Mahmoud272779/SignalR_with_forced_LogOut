@@ -24,11 +24,20 @@ public class ChatHub : Hub
         {
             if (userConnections[user].TryDequeue(out var connectionId))
             {
-                await Clients.Client(connectionId).SendAsync("ForceLogout");
+               
+
+                var newMessage= new ResponseResult
+                {
+                    Message = "you have logged in from another session",
+                    Status = 0
+                };
+                await Clients.Client(connectionId).SendAsync("ForceLogout",newMessage);
             }
         }
 
         await base.OnConnectedAsync();
+
+       
     }
 
     public override Task OnDisconnectedAsync(Exception exception)
@@ -54,5 +63,12 @@ public class ChatHub : Hub
     public async Task SendMessage(string user, string message)
     {
         await Clients.All.SendAsync("ReceiveMessage", user, message);
+    }
+
+    public class ResponseResult
+    { 
+       public string Message { get; set; }
+        public int Status { get; set; } 
+    
     }
 }
